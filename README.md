@@ -3,6 +3,7 @@
 ## 1. 准备工作
 
 您可以在`https://github.com/faizann24/Using-machine-learning-to-detect-malicious-URLs`获取数据集
+获取预训练模型：`https://drive.google.com/file/d/1x_SX4daROLnHTx8Tw_VPv43kCviKPdnv/view?usp=drive_link`
 
 ### 1.1环境相关
 
