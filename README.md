@@ -2,6 +2,8 @@
 
 ## 1. 准备工作
 
+您可以在`https://github.com/faizann24/Using-machine-learning-to-detect-malicious-URLs`获取数据集
+
 ### 1.1环境相关
 
 1. 环境安装
